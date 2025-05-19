@@ -35,7 +35,7 @@ Use this to help guide your preparation, gain confidence, and pass the exam with
 
 ---
 
-### 📥 Personal Notes
+### 📥 [Personal Notes](https://drive.google.com/file/d/1O6vjDvFEPcUpP7_ukDbzEWcS57q4_H5P/view?usp=sharing)
 
 ### 🎓 Preparation Material
 - [Data Engineer Learning Plan](https://customer-academy.databricks.com/learn/learning-plans/10/data-engineer-learning-plan?hash=c708cd74a17032630b53520df41e6cf31e98a289&generated_by=726929)
